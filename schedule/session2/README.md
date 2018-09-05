@@ -5,7 +5,7 @@ This is a group assignment. Before you start working on each of the steps below,
 The dataset for this assignment consists of reviews extracted from three different websites:
 
 - [leestafel.info](http://leestafel.info/)
-- [literairnederland.nl]()https://www.literairnederland.nl/category/recensies/
+- [literairnederland.nl](https://www.literairnederland.nl/category/recensies/)
 - [boekreviews.nl](http://www.boekreviews.nl/)
 
 These websites were crawled for book reviews. Not all website content was crawled, and some reviews may have been missed. Also, some crawled pages may not represent book reviews. The reviews were parsed to extract as much useful data as possible, but focusing on metadata fields that occur in the ODBR dataset of the previous assignment.
