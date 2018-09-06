@@ -10,7 +10,6 @@ Wednesday 5 September:
 
 Thursday 6 September:
 
-+ 10:00-10:30 Preparing Hands-on session 2 dataset for handover
-+ 10:30-12:00 Repeat Hands-on session 1 analysis on new dataset
++ 10:00-12:00 [Hands-onn session 3: Sharing Data Scopes](session3/README.md)
 + 12:00-13:00 Methodology discussion and wrap up
 
