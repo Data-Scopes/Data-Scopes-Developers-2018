@@ -14,12 +14,16 @@ Once all groups have done this, get the documents from the group next to you and
 Look at their documentation and consider the following questions:
 - What is most useful in documentation?
 - Is anything not useful or unclear in documentation?
-- Is anything missing inn documentation?
+- Is anything missing in documentation?
+- Are there differences between what you documented for your data scope and what the other group did?
+
 
 Back to research question:
-- Was research question clear?
+- What is the relation between the data scope and the research question? Was research question clear?
+- What did you focus on in doing the data processing? 
 - Is anything pushed to the background?
 - How have interpretation, choices and decisions changed the data?
+- Do these transformations create the impression that there's more structure than there actually is/was? Is that a problem? Whose interpretations are these?
 
 ### Methdology discussion
 
