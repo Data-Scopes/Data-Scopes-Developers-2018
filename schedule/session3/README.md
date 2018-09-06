@@ -1,11 +1,13 @@
 ## Step 1: Creating a Data Scope
 
 - Finish the mapping of the crawled dataset to the ODBR data model,
+- Export the crawled dataset to CSV,
+- Export the Open Refine steps to a JSON file,
 - Create a file that documents the most important choices, decisions and interpretations. 
 
 ## Step 2: Share your Data Scope
 
-Go to the SurfDrive folder and add three documents to the folder we made for your group.
+Go to the SurfDrive folder and add the three documents (CSV, JSON and documentation) to the folder we made for your group.
 
 Once all groups have done this, get the documents from the group next to you and try to merge their edited version of the crawled data to your version of ODBR dataset, by applying the same steps.
 
