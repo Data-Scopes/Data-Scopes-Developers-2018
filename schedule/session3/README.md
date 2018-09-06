@@ -35,7 +35,9 @@ Reflection on process:
 - adding columns with source of information
 - creating a separate dataset of records that were removed
 - right level of communication between scholars and developers
+  - spreadsheet interface gives quick visual feedback
   - spreadsheet operations are conceptually close to what some scholars do
   - spreadsheet operations are conceptually close to what programmers do
+  - useful for which parts of research? E.g. exploration, analysis, presentation?
 
 
